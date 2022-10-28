@@ -1,0 +1,18 @@
+.prof{
+    display: inline-flex;
+
+}
+.photo{
+    width: 300px;
+    height: 500px;
+    padding: 30px;
+
+}
+.bio{
+    text-align: center;
+    padding-top: 90px;
+
+}
+p{
+    margin-bottom: 80px;
+}
